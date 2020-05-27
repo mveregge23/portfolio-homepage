@@ -3,7 +3,10 @@ ul {
 }
 
 div {
-  display: inline-block;
+  display: block;
   width: 60%;
   margin: auto;
+}
+h1 {
+  text-align: center;
 }
